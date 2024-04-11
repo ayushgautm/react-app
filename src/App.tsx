@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import ToxcicityModel from './components/ToxicityModel';
 
 interface CommentItem {
     id: string;
